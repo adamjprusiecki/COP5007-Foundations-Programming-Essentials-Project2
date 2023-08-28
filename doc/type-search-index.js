@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Account"},{"p":"<Unnamed>","l":"AccountJUnitTest"},{"p":"<Unnamed>","l":"AccountTester"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Bot"},{"p":"<Unnamed>","l":"User"}];updateSearchResults();

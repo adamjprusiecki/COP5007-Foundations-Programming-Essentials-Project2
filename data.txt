@@ -1,0 +1,9 @@
+u,apinto1,Anthony Pinto,1001,abcd1234$,house
+b,DOSAlert.c,IDS,12/11/2015,jgosling,xyz83$2Iw,extra
+u,jsmith,John Smith,1004,password,boats
+b,deleteUsers.vb,SysAdm,01/03/2007,pallen,Pa$$W0rd,table
+u,ddante,Adrian Lamo,1007,KI$$FM102,spoon
+u,barfoo,bar foo,1007,KI$$FM102,spon
+u,foobar,foo bar,1007,KI,spoon
+b,baz.c,IDS,12/11/2015,jgosling,xy2,extra
+b,bar.c,IDS,12/11/2015,jgosling,xyz83$2Iw,exa
